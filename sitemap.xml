@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/</loc>
+    <loc>https://abhi9716.github.io/myhome/</loc>
   </url>
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>https://abhi9716.github.io/myhome/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>https://abhi9716.github.io/myhome/series/</loc>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>https://abhi9716.github.io/myhome/tags/</loc>
   </url>
   
 </urlset>
